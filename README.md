@@ -15,7 +15,7 @@ Follow these steps to replicate MySQL data changes to Kafka topics.
 
 ### Log into MySQL
 Connect to your MySQL instance (replace `192.168.64.6` with your MySQL server IP):
-```os cmd
+```bash
 mysql -u root -p -h 192.168.64.6
 ```
 
